@@ -45,6 +45,6 @@ int main() {
 	else if (strcmp(third, "white")==0) num *= 1000000000;
 
 
-	printf("%lld", num);
+	printf("%lld", num );
 
 }

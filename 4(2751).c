@@ -14,7 +14,7 @@ void sort(int num[], int n) {
 	}
 
 	for (int i = 0; i < n; i++) {
-		printf("%d\n", num[i]);
+		printf("%d\n", num[i] );
 	}
 
 	
@@ -29,5 +29,5 @@ int main() {
 	}
 	sort(num, n);
 
-	return 0;
+	
 }

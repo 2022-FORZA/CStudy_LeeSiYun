@@ -26,6 +26,6 @@ int main() {
 
 		result = ((double)count / (double)person) * 100;
 
-		printf("%.3f%%\n", result);
+		printf("%.3f%%\n", result );
 	}
 }

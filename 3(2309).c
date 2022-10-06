@@ -36,6 +36,6 @@ int main() {
 		if (i == fake1 || i == fake2) {
 			continue;
 		}
-		printf("%d\n", height[i]);
+		printf("%d\n", height[i] );
 	}
 }
